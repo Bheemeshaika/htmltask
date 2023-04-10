@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>sabarimalawebsite</title>
+<link rel="website Icon" type="png"
+href="C:\Users\bheem\OneDrive\Pictures\Screenshots\ayyapaswamy.png">
+
+</head>
+<body background="C:\Users\bheem\OneDrive\Pictures\Screenshots\sabarimalaphoto.jpg"; background-repeat: no repeat> 
+    <div style="text-align: center;background-color: transparent; height:"4cm"; width:"10cm">
+        <h1 style="font-size: 1cm;color: yellow;"><b>welcome to sabarimala services</b></h1>
+        <hr>
+       </div>
+  <marquee style="color:blanchedalmond;font-size: 0.5cm;font-family: Arial;width: 7cm;text-align: center;padding-left: 10cm;margin-left: 8cm;"><strong>!!!Latest updates!!This is the digitalised portal of sabarimala for any queries, booking and other services you can go through this website</strong></marquee>
+  <div style="text-align: center;">
+    <label style="font-size: 0.4cm;color:yellow;margin: left 1cm;">Login Here</label>
+<label style="color:aliceblue">User Name:</label>
+    <input type="text" placeholder="enter your ID">
+<label style="color:whitesmoke">password:</label>
+<input type="number" placeholder="enter your password">
+<button type="login">Submit</button>
+<a href="www.gmail.com">forgot password</a>
+<button type="login";margin-left:6cm;background-color:yellow>Register</button>
+</div>
+<div style="background-color: white;color:brown;height:3cm;width:4cm;border-radius: 1cm;">
+<h4 style="text-align: center;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;"> virtual-Q</h4>
+<hr>
+<h4 style="text-align:center;font-family:calibri"> kanika hundi</h4>
+</div>
+<div style="display: flex;flex-direction: column;color:whitesmoke;width:9cm;padding-left: 4.5cm;">
+
+<ul type="bullet">
+    <h3 style="color:goldenrod;font-family: Arial, Helvetica, sans-serif;"> Welcome to the Nextgen online service platoform for availing piligrim services @Sabarimala</h3>
+    <hr>
+    <li>kanika/hundi is available for Registered user and Guest user it can be availed</li>
+    <li>covid-19, all piligrims are advised to wear a Facemask and maintain social distance from eachother to avoid spread of covid 19 disease</li>
+    <li>No tour operator in aviation sector has been granted permission to offer helicopter facility at Nikkal by travancore devasworm board, for the time being </li>
+    <li>Travancore Devasworm board will never ask to share details of Debit &Credit cards, Account Number,ATM PIN, passwords, CVV,OTP over phonr/email. please do not share with anyone</li>
+    <li>please click <a href="https://sabarimalaonline.org/#/Videoguide">here</a>to refer the help videos</li>
+</ol>
+</div>
+<div style="display: flex;flex-direction: column;color:whitesmoke;width:9cm;padding-left: 4.5cm;">
+
+    <ul type="bullet">
+        <h3 style="color:goldenrod;font-family: Arial, Helvetica, sans-serif;"> Latest Updates</h3>
+        <hr>
+        <li>please complete the registration process in advance to avail all the services here</li>
+        <li>annadhanam is available at free of cost at sabarmala, pamba,nikkal and erumely temples. All pilgrims can make use of the facility during their visit to sabarmala</li>
+        <li>Travancore Devaswom board has made all neccessary arrangements at Idathavalams at different centers accross the state of kerala. for more details on Idhathavalams<a href="https://sabarimalaonline.org/#/idathavalams">clickhere</a></li>
+        <li>Travancore Devasworm board will never ask to share details of Debit &Credit cards, Account Number,ATM PIN, passwords, CVV,OTP over phonr/email. please do not share with anyone</li>
+        <li>for any queriesregarding the piligrim, please write to piligrim help desk<a href="mailto:grievance.virtualqtdb@gmail.com">grievance.virtualqtdb@gmail.com</a></li>
+    </ol>
+    </div>
+    <div style="display: flexbox;color:white">
+    <a href="https://sabarimalaonline.org/#/login">About us</a>
+    <a href="https://sabarimalaonline.org/#/termsandconditions">terms &conditions</a>
+    <a href="https://sabarimalaonline.org/#/guidelines&faqs">Guide lines and FAQ's</a>
+    <a href="https://sabarimalaonline.org/#/feedback">Feedback</a>
+    <a href="https://sabarimalaonline.org/#/contactUs">contact us</a>
+    <a href="https://sabarimalaonline.org/#/privacyPolicy">privacy policy</a>
+    </div>
+
+</body>
+</html>
